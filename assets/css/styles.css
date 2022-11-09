@@ -586,7 +586,7 @@ img {
   transition: .5s;
 }
 
-.services_content:hover{
+/* .services_content:hover{
   background-color: var(--first-color) ;
 }
 
@@ -601,7 +601,7 @@ img {
 
 .services_content:hover .services_description{
   color: var(--first-color-lighten);
-}
+} */
 
 /* ===== CONTACT =====*/
 .contact {
