@@ -213,18 +213,19 @@ img {
 }
 
 .home_img {
-  padding-top: .8rem;
-  padding-left: .2rem;
+  padding-top: .05rem;
+  padding-left: .05rem;
   width: 160px;
   height: 160px;
-  background-color: var(--first-color);
+  /* background-color: green ; */
   border-radius: 50%;
   overflow: hidden;
   margin-bottom: var(--mb-2);
 }
 
 .home_img img{
-  width: 155px;
+  width: 160px;
+  height: 160px;
 }
 
 .home_title {
