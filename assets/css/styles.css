@@ -388,16 +388,32 @@ img {
 
 
 .skills_csharp {
-  width: 80%;
+  width: 75%;
 }
 .skills_sql {
-  width: 80%;
+  width: 90%;
 }
 .skills_linux {
-  width: 70%;
+  width: 80%;
 }
 .skills_python {
-  width: 75%;
+  width: 90%;
+}
+
+.skills_pbi {
+  width: 95%;
+}
+
+.skills_pamc {
+  width: 70%;
+}
+
+.skills_ppt {
+  width: 90%;
+}
+
+.skills_excel {
+  width: 85%;
 }
 
 /* ===== LANGUAGE =====*/
