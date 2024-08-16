@@ -244,6 +244,10 @@ img {
   margin-bottom: 5rem;
 }
 
+.home_resume {
+  margin-bottom: 1rem;
+}
+
 .home_social-link {
   display: inline-flex;
   background-color: var(--first-color);
